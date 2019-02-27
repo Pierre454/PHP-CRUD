@@ -19,5 +19,5 @@ In order to improve my web skills, I created this CRUD, in order to manage from 
 
 ## Database
 
-- PHPmyAdmin
+- phpMyAdmin
 
