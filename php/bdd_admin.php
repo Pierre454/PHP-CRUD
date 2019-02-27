@@ -72,7 +72,7 @@
 						echo('<td><form id="modif" method="post" action="handler.php">
 		  <input type="hidden" name="ModifCh" value="'.key($requete[0]).'" >
 		  <input type="hidden" name="ModifTab" value="'.$table.'" >
-		  <button class="m" type="submit" name="ModifId" value="'.$requete[$ligne][0].'">modifier</button>
+		  <button class="m" type="submit" name="ModifId" value="'.$requete[$ligne][0].'">modif</button>
 		  </form></td>');
 						echo('</tr>');
 						$ligne++;
