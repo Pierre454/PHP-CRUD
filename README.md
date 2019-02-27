@@ -17,7 +17,7 @@ In order to improve my web skills, I created this CRUD, in order to manage a lis
  - AJAX
  - SQL
 
-## Data base
+## Database
 
 - PHPmyAdmin
 
